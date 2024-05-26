@@ -1,2 +1,3 @@
 # SSC-self-study-resources
-Free and legal resources to prep for Staff Selection Commisssion Exams
+
+Resources across the internet to prepare yourself for the central government job examination SSC. These includes articles, YouTube videos, model papers, tips, books etc.
